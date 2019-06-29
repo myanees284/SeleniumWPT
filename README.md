@@ -14,4 +14,4 @@ WebPageTest.java<br>
 TestChrome.java<br>
      A simple selenium based java code, which uses chromedriver with its chromOption to enable performance logs during intial setup, does the automated transactions and then feed into Webpagetest private instance thro WebPageTest.java <br>
 After the execution of TestChrome, the output will given similar to below <br>
-The results are available at *http:<wpt private instance host>:<port>/result/<folder>*
+The results are available at http:<wpt private instance host>:<port>/result/<folder>
